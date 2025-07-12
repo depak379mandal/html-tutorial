@@ -1,12 +1,12 @@
 ### 0. Introduction & Setup
 
-    - Course Introduction
-    - What is HTML? What is CSS?
-    - Tools Setup:
-        Code Editor (VS Code)
-        Browsers (Firefox) & DevTools (Firefox Inspect)
-        Live Server Extension
-    - First Web Page: Hello World
+- Course Introduction
+- What is HTML? What is CSS?
+- Tools Setup:
+  Code Editor (VS Code) https://code.visualstudio.com/download
+  Browsers (Firefox) & DevTools (Firefox Inspect) https://www.mozilla.org/en-US/firefox/windows/
+  Live Server Extension
+- First Web Page: Hello World
 
 ### 1. Introduction to HTML
 
